@@ -2,6 +2,7 @@ package lang.print.gaps.task1;
 
 public class PrintWordsApp {
     public static void main(String[] args) {
-        //write your code here
+        String f = "java", s = "is", t = "smth";
+        System.out.println(f + "\n" + s + "\n" + t);
     }
 }
